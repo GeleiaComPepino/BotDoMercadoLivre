@@ -31,4 +31,4 @@ client.on ('ready', () => {
         });
     }
 });
-client.login(token);
+client.login(MTAxMDU0ODkzMTQ5MjU3NzM4MA.GJWhMo.xkBXNc4biOn_sSiFyLLxS4EoUdVQys7RScfO-0);
